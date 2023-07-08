@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+# This is an online stay rental application for host to upload and manage stays and guest to search and book stays
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## main landing page is user register and login page
+<img width="700" alt="image" src="https://github.com/ElyseWu/staybooking-FrontEnd/assets/99052684/13c46de3-f844-432e-83c1-7199becd20cb">
 
-## Available Scripts
+## If login as a host, it will show the stays this host uploaded and a page to upload new stay
+<img width="700" alt="image" src="https://github.com/ElyseWu/staybooking-FrontEnd/assets/99052684/65164dc0-915a-4375-a7fb-f5274243e610">
+<img width="700" alt="image" src="https://github.com/ElyseWu/staybooking-FrontEnd/assets/99052684/af18088c-1b6e-43b8-9df8-554a28f5ff58">
 
-In the project directory, you can run:
+### host can check the stay detail and the reservations for this stay:
+<img width="700" alt="image" src="https://github.com/ElyseWu/staybooking-FrontEnd/assets/99052684/62915c3a-6359-4477-abf9-a4e50be443e8">
+<img width="700" alt="image" src="https://github.com/ElyseWu/staybooking-FrontEnd/assets/99052684/90c4469b-c782-4aa1-8a97-25d099cee624">
 
-### `npm start`
+## If login as a guest, it will show up search checkbox and you can input guests number, date, then it will show up all the stays match your search
+<img width="700" alt="image" src="https://github.com/ElyseWu/staybooking-FrontEnd/assets/99052684/d098ea7f-9c0c-41f5-9866-06aa3e6c10e2">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### guest can book stay
+<img width="700" alt="image" src="https://github.com/ElyseWu/staybooking-FrontEnd/assets/99052684/b3e3ad6f-be93-4e31-8185-1a9b6fc7c875">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### guest can check the reservations he made
+<img width="700" alt="image" src="https://github.com/ElyseWu/staybooking-FrontEnd/assets/99052684/1cae6725-6d4d-4b69-8fff-3b536ce197dd">
